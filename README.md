@@ -100,18 +100,20 @@ The program will start with the **Login Screen**, where valid employee credentia
 
 ## 🖼️ Screenshots
 
-A visual overview of the main screens and functionalities of the Bank Management System.
+### Login Screen
+![Login Screen](Images/login_screen.PNG)
 
-| Screen Name | Description | Screenshot |
-| :--- | :--- | :---: |
-| **Login Screen** | The initial security check before accessing the system. | ![Login Screen](Images/login_screen.PNG) |
-| **Main Menu** | The central hub for navigating between all major features. | ![Main Screen](Images/main_screen.PNG) |
-| **Client List** | Displaying all client accounts, balances, and details. | ![Client List Screen](Images/list_clients_screen.PNG) |
-| **Transactions Menu** | Menu for Deposit, Withdraw, Transfer, and Balance inquiries. | ![Transactions Menu](Images/transactions_screen.PNG) |
-| **Manage Users Menu** | Administration panel for listing, adding, updating, and deleting users. | ![Manage Users Menu](Images/manage_users_screen.PNG) |
-| **Login Register** | Log showing system access history. | ![Login Register](Images/login_register_list_screen.PNG) |
-| **Currency Exchange Menu** | Menu dedicated to currency operations. | ![Currency Exchange Main](Images/currency_exchange_main_screen.PNG) |
-| **Currencies List** | List of all supported world currencies and their rates. | ![Currencies List](Images/currencies_list_screen.PNG) |
+### Main Menu
+![Main Menu](Images/main_menu.PNG)
+
+### Client List
+![Client List](Images/clients_list.PNG)
+
+### Transactions Menu
+![Transactions Menu](Images/transactions_menu.PNG)
+
+### Manage Users Menu
+![Manage Users Menu](Images/manage_users_menu.PNG)
 
 ---
 
