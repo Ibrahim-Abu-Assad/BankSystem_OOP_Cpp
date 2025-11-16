@@ -100,20 +100,22 @@ The program will start with the **Login Screen**, where valid employee credentia
 
 ## 🖼️ Screenshots
 
-### Login Screen
-![Login Screen](Images/login_screen.PNG)
+![Login Screen](Bank%20Project2/Images/login_screen.PNG)
 
-### Main Menu
-![Main Menu](Images/main_menu.PNG)
+![Main Menu](Bank%20Project2/Images/main_menu.PNG)
 
-### Client List
-![Client List](Images/clients_list.PNG)
+![Client List](Bank%20Project2/Images/clients_list.PNG)
 
-### Transactions Menu
-![Transactions Menu](Images/transactions_menu.PNG)
+![Transactions Menu](Bank%20Project2/Images/transactions_menu.PNG)
 
-### Manage Users Menu
-![Manage Users Menu](Images/manage_users_menu.PNG)
+![Manage Users Menu](Bank%20Project2/Images/manage_users_menu.PNG)
+
+![Login Register](Bank%20Project2/Images/login_register_list.PNG)
+
+![Currency Exchange Menu](Bank%20Project2/Images/currency_exchange_menu.PNG)
+
+![Currencies List](Bank%20Project2/Images/currencies_list.PNG)
+
 
 ---
 
