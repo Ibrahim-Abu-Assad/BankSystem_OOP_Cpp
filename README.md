@@ -98,6 +98,23 @@ The program will start with the **Login Screen**, where valid employee credentia
 
 ---
 
+## 🖼️ Screenshots
+
+A visual overview of the main screens and functionalities of the Bank Management System.
+
+| Screen Name | Description | Screenshot |
+| :--- | :--- | :---: |
+| **Login Screen** | The initial security check before accessing the system. | ![Login Screen](images/Login Screen.PNG) |
+| **Main Menu** | The central hub for navigating between all major features. | ![Main Screen](images/Main Screen.PNG) |
+| **Client List** | Displaying all client accounts, balances, and details. | ![Client List Screen](images/List Clients Screen.PNG) |
+| **Transactions Menu** | Menu for Deposit, Withdraw, Transfer, and Balance inquiries. | ![Transactions Menu](images/Transactions Screen.PNG) |
+| **Manage Users Menu** | Administration panel for listing, adding, updating, and deleting users. | ![Manage Users Menu](images/Manage Users Screen.PNG) |
+| **Login Register** | Log showing system access history. | ![Login Register](images/Login Register List Screen.PNG) |
+| **Currency Exchange Menu** | Menu dedicated to currency operations. | ![Currency Exchange Main](images/Currency Exchange Main Screen.PNG) |
+| **Currencies List** | List of all supported world currencies and their rates. | ![Currencies List](images/Currencies List Screen.PNG) |
+
+---
+
 ## 📄 License
 
 This project is free to use, modify, and extend.
