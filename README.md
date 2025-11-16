@@ -100,21 +100,17 @@ The program will start with the **Login Screen**, where valid employee credentia
 
 ## 🖼️ Screenshots
 
-![Login Screen](Bank%20Project2/Images/login_screen.PNG)
+| Screen Name | Description | Screenshot |
+| :--- | :--- | :---: |
+| **Login Screen** | The initial security check before accessing the system. | ![Login Screen](Bank%20Project2/Images/login_screen.PNG) |
+| **Main Menu** | The central hub for navigating between all major features. | ![Main Screen](Bank%20Project2/Images/main_screen.PNG) |
+| **Client List** | Displaying all client accounts, balances, and details. | ![Client List Screen](Bank%20Project2/Images/list_clients_screen.PNG) |
+| **Transactions Menu** | Menu for Deposit, Withdraw, Transfer, and Balance inquiries. | ![Transactions Menu](Bank%20Project2/Images/transactions_screen.PNG) |
+| **Manage Users Menu** | Administration panel for listing, adding, updating, and deleting users. | ![Manage Users Menu](Bank%20Project2/Images/manage_users_screen.PNG) |
+| **Login Register** | Log showing system access history. | ![Login Register](Bank%20Project2/Images/login_register_list_screen.PNG) |
+| **Currency Exchange Menu** | Menu dedicated to currency operations. | ![Currency Exchange Main](Bank%20Project2/Images/currency_exchange_main_screen.PNG) |
+| **Currencies List** | List of all supported world currencies and their rates. | ![Currencies List](Bank%20Project2/Images/currencies_list_screen.PNG) |
 
-![Main Menu](Bank%20Project2/Images/main_menu.PNG)
-
-![Client List](Bank%20Project2/Images/clients_list.PNG)
-
-![Transactions Menu](Bank%20Project2/Images/transactions_menu.PNG)
-
-![Manage Users Menu](Bank%20Project2/Images/manage_users_menu.PNG)
-
-![Login Register](Bank%20Project2/Images/login_register_list.PNG)
-
-![Currency Exchange Menu](Bank%20Project2/Images/currency_exchange_menu.PNG)
-
-![Currencies List](Bank%20Project2/Images/currencies_list.PNG)
 
 
 ---
