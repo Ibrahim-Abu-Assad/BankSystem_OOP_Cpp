@@ -111,10 +111,26 @@ The program will start with the **Login Screen**, where valid employee credentia
 | **Currency Exchange Menu** | Menu dedicated to currency operations. | ![Currency Exchange Main](Bank%20Project2/Images/currency_exchange_main_screen.PNG) |
 | **Currencies List** | List of all supported world currencies and their rates. | ![Currencies List](Bank%20Project2/Images/currencies_list_screen.PNG) |
 
-
-
 ---
 
 ## 📄 License
 
 This project is free to use, modify, and extend.
+
+---
+
+## 👨‍💻 Author
+
+**Ibrahim Abu-Assad**  
+📧 i6802275@gmail.com  
+🌍 GitHub: [Ibrahim-Abu-Assad](https://github.com/Ibrahim-Abu-Assad)
+
+---
+
+## 🎓 Acknowledgments
+
+This project was developed as part of my C++ learning journey under the guidance of  
+**Dr. Mohammed Abu-Hadhoud**, founder of the **Programming Advices** learning platform.  
+His structured teaching and practical approach played a significant role in enhancing my skills.
+
+---
